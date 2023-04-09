@@ -3,4 +3,4 @@
 [Tasklist](./tasklist.md)
 
 
-![Architect](./test.png)
+![Architect](./new.png)
